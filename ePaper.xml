@@ -1236,7 +1236,7 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
   <b:widget id='LinkList151' locked='false' title='Links Site' type='LinkList' version='1'>
     <b:widget-settings>
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-      <b:widget-setting name='text-1'>ব&#2495;জ&#2509;ঞ&#2494;পন</b:widget-setting>
+      <b:widget-setting name='text-1'>বিজ্ঞাপন</b:widget-setting>
       <b:widget-setting name='link-1'>https://www.sdewery.me</b:widget-setting>
       <b:widget-setting name='text-0'>হোম</b:widget-setting>
       <b:widget-setting name='link-2'>https://www.sdewery.me</b:widget-setting>
