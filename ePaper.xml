@@ -1238,9 +1238,9 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
       <b:widget-setting name='text-1'>ব&#2495;জ&#2509;ঞ&#2494;পন</b:widget-setting>
       <b:widget-setting name='link-1'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='text-0'>হ&#2507;ম</b:widget-setting>
+      <b:widget-setting name='text-0'>হোম</b:widget-setting>
       <b:widget-setting name='link-2'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-0'>https://www.sdewery.me</b:widget-setting>
+      <b:widget-setting name='link-0'>https://theme99s.blogspot.com</b:widget-setting>
       <b:widget-setting name='text-2'>য&#2507;গ&#2494;য&#2507;গ</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
