@@ -80,7 +80,7 @@
 <meta content='FACEBOOK-APP-ID' property='fb:app_id'/>
 <meta content='FACEBOOK-ADMIN-ID' property='fb:admins'/>
 <meta content='@SDewer' name='twitter:site'/>
-<meta content='@Sdewery' name='twitter:creator'/>
+<meta content='@NewsPaper' name='twitter:creator'/>
 
 <b:skin><![CDATA[
 /*
@@ -3121,7 +3121,7 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
 <b:section class='footer' id='footer1'>
   <b:widget id='Text1' locked='false' title='' type='Text'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[<div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family:&quot;;"><div class="widget-content"></div></span></div><div><span style="font-family: Georgia, serif; font-size: 100%;font-family:&quot;;">সম্পাদক : সব্যসাচী দেউরী<br /></span><span style="font-family:Georgia, serif;">এস-দেউরী</span><span style="font-family: Georgia, serif; font-size: 100%;font-family:&quot;;font-size:100%;"> লিমিটেডের একটি প্রতিষ্ঠান</span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family:&quot;;">© ২০২০ সর্বস্বত্ব সংরক্ষিত | সংবাদ প্রিমিয়ামটেমপ্লেট<br />ক্লাবরোড, কাউনিয়া, বরিশাল সদর,বরিশাল ৮২০০<br />মোবাইল: +৮৮ ০১৩০৩৫৪২৯৬৫<br />ই-মেইল: SDeweryOfficial@gmail.com</span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family:&quot;;"></span></div>]]></b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[<div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family:&quot;;"><div class="widget-content"></div></span></div><div><span style="font-family: Georgia, serif; font-size: 100%;font-family:&quot;;">সম্পাদক : সব্যসাচী দেউরী<br /></span><span style="font-family:Georgia, serif;">এস-দেউরী</span><span style="font-family: Georgia, serif; font-size: 100%;font-family:&quot;;font-size:100%;"> লিমিটেডের একটি প্রতিষ্ঠান</span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family:&quot;;">© ২০২০ সর্বস্বত্ব সংরক্ষিত | সংবাদ প্রিমিয়ামটেমপ্লেট<br />ক্লাবরোড, কাউনিয়া, বরিশাল সদর,বরিশাল ৮২০০<br />মোবাইল: +৮৮ ০১৩০৩৫৪২৯৬৫<br />ই-মেইল: NewsPaperOfficial@gmail.com</span></div><div style="font-family: Georgia, serif; font-size: 100%;"><span style="font-family:&quot;;"></span></div>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
@@ -3174,7 +3174,7 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
 <div id='footerfix'>
 <div class='copyleft'>
 Copyright &#169; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
-  <a href='/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>asadulislamasad.com</span></a>  | Designer By <a href='https://www.asadulislamasad.com'>SDewery Official</a><div id='mscontent'/>
+  <a href='/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>asadulislamasad.com</span></a>  | Designer By <a href='https://www.asadulislamasad.com'>NewsPaper Official</a><div id='mscontent'/>
 </div>
 </div>
 </footer>
