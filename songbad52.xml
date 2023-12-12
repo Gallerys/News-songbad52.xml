@@ -7,7 +7,7 @@
 <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' rel='stylesheet'/>
 
 
-<!-- All in One SEO Pack for blogger by SDewery.me -->
+<!-- All in One SEO Pack for blogger by asadulislamasad.com -->
 <meta charset='utf-8'/>
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
 <meta content='blogger' name='generator'/>
@@ -86,7 +86,7 @@
 /*
 -----------------------------------------------
 Template Name  : News-Bangla
-Author URL     : https://Sdewery.me
+Author URL     : https://asadulislamasad.com
 ----------------------------------------------- */
 /* Variable definitions
 ====================
@@ -1237,10 +1237,10 @@ document.write(&quot;Today is &quot; + dayName[now.getDay()] + &quot;, &quot; + 
     <b:widget-settings>
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
       <b:widget-setting name='text-1'>ব&#2495;জ&#2509;ঞ&#2494;পন</b:widget-setting>
-      <b:widget-setting name='link-1'>https://www.sdewery.me</b:widget-setting>
+      <b:widget-setting name='link-1'>https://www.asadulislamasad.com</b:widget-setting>
       <b:widget-setting name='text-0'>হ&#2507;ম</b:widget-setting>
-      <b:widget-setting name='link-2'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-0'>https://www.sdewery.me</b:widget-setting>
+      <b:widget-setting name='link-2'>https://www.asadulislamasad.com</b:widget-setting>
+      <b:widget-setting name='link-0'>https://www.asadulislamasad.com</b:widget-setting>
       <b:widget-setting name='text-2'>য&#2507;গ&#2494;য&#2507;গ</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
@@ -3094,7 +3094,7 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
   </b:widget>
   <b:widget id='HTML2' locked='false' title='বিজ্ঞাপন' type='HTML'>
     <b:widget-settings>
-      <b:widget-setting name='content'><![CDATA[<a href="https://sdewery.me"><img alt="ad300" border="0" src="https://3.bp.blogspot.com/-gTrgBx5Au3w/V1xEW-zyU4I/AAAAAAAAB8M/7iDnmOdgHWUkETd94QpQSamnCtVB02kxwCLcB/s1600/4109857506747772603.gif" title="ad300" /></a>]]></b:widget-setting>
+      <b:widget-setting name='content'><![CDATA[<a href="https://asadulislamasad.com"><img alt="ad300" border="0" src="https://3.bp.blogspot.com/-gTrgBx5Au3w/V1xEW-zyU4I/AAAAAAAAB8M/7iDnmOdgHWUkETd94QpQSamnCtVB02kxwCLcB/s1600/4109857506747772603.gif" title="ad300" /></a>]]></b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
@@ -3137,11 +3137,11 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
   </b:widget>
   <b:widget id='LinkList56' locked='false' title='Footer Social Media Icons' type='LinkList' version='1'>
     <b:widget-settings>
-      <b:widget-setting name='link-7'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-5'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-6'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-3'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-4'>https://www.sdewery.me</b:widget-setting>
+      <b:widget-setting name='link-7'>https://www.asadulislamasad.com</b:widget-setting>
+      <b:widget-setting name='link-5'>https://www.asadulislamasad.com</b:widget-setting>
+      <b:widget-setting name='link-6'>https://www.asadulislamasad.com</b:widget-setting>
+      <b:widget-setting name='link-3'>https://www.asadulislamasad.com</b:widget-setting>
+      <b:widget-setting name='link-4'>https://www.asadulislamasad.com</b:widget-setting>
       <b:widget-setting name='text-1'>twitter</b:widget-setting>
       <b:widget-setting name='text-0'>facebook</b:widget-setting>
       <b:widget-setting name='text-3'>youtube</b:widget-setting>
@@ -3151,9 +3151,9 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
       <b:widget-setting name='text-7'>linkedin</b:widget-setting>
       <b:widget-setting name='text-6'>tumblr</b:widget-setting>
       <b:widget-setting name='sorting'>NONE</b:widget-setting>
-      <b:widget-setting name='link-1'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-2'>https://www.sdewery.me</b:widget-setting>
-      <b:widget-setting name='link-0'>https://www.sdewery.me</b:widget-setting>
+      <b:widget-setting name='link-1'>https://www.asadulislamasad.com</b:widget-setting>
+      <b:widget-setting name='link-2'>https://www.asadulislamasad.com</b:widget-setting>
+      <b:widget-setting name='link-0'>https://www.asadulislamasad.com</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
  <div class='widget-content'>
@@ -3174,7 +3174,7 @@ Etiam at libero iaculis, mollis justo non, blandit augue. Vestibulum sit amet so
 <div id='footerfix'>
 <div class='copyleft'>
 Copyright &#169; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
-  <a href='/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>SDewery.me</span></a>  | Designer By <a href='https://www.sdewery.me'>SDewery Official</a><div id='mscontent'/>
+  <a href='/' itemprop='creator' itemscope='itemscope' itemtype='http://schema.org/Person'><span itemprop='name'>asadulislamasad.com</span></a>  | Designer By <a href='https://www.asadulislamasad.com'>SDewery Official</a><div id='mscontent'/>
 </div>
 </div>
 </footer>
@@ -3343,7 +3343,7 @@ var _0x273a="innerHTML,comments,getElementById,length,<img src=',replace,<img wi
  *
  * @copyright Copyright 2020, Sabyasachi Dewery
  * @license   Apache License, Version 2.0 (http://www.opensource.org/licenses/apache2.0.php)
- * @link      http://sdewery.me
+ * @link      http://asadulislamasad.com
  * @version   v1.4.9
  */
 
